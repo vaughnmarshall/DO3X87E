@@ -1,10 +1,3 @@
-#####Virtualize the API Design - Discuss making it Private while you work or why Private *may* be desired
-#####Virtualize the API Design - Discuss making it Private while you work or why Private *may* be desired
-#####Virtualize the API Design - Discuss making it Private while you work or why Private *may* be desired
-#####Virtualize the API Design - Discuss making it Private while you work or why Private *may* be desired
-
-#####Virtualize the API Design - Discuss making it Private while you work or why Private *may* be desired
-
 *Call the API in Try It Now*
 
 #####Add Pairs for Fidelity use case - 3-6 of them with matching URL and Body
