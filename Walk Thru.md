@@ -1,4 +1,9 @@
 #####Virtualize the API Design - Discuss making it Private while you work or why Private *may* be desired
+#####Virtualize the API Design - Discuss making it Private while you work or why Private *may* be desired
+#####Virtualize the API Design - Discuss making it Private while you work or why Private *may* be desired
+#####Virtualize the API Design - Discuss making it Private while you work or why Private *may* be desired
+
+#####Virtualize the API Design - Discuss making it Private while you work or why Private *may* be desired
 
 *Call the API in Try It Now*
 
